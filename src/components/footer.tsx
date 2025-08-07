@@ -63,7 +63,7 @@ export const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">About Us</h3>
             <p>
-            At Team CODE RED, we are a passionate team of developers, AI enthusiasts. We have built an AI-powered interview preparation model designed to help candidates enhance their skills, boost their confidence, and succeed in technical and behavioral interviews.
+             I am a passionate team of developers, AI enthusiasts. I have built an AI-powered interview preparation model designed to help candidates enhance their skills, boost their confidence, and succeed in technical and behavioral interviews.
             </p>
           </div>
 
@@ -72,7 +72,7 @@ export const Footer = () => {
             <h3 className="font-bold text-lg mb-4">Services</h3>
             <ul>
               <FooterLink to="/services/interview-prep">
-                Interview Preparation with Feedback
+                Interview Preparation 
               </FooterLink>
               <FooterLink to="/services/career-coaching">
                 Career Advice
@@ -88,23 +88,23 @@ export const Footer = () => {
             <h3 className="font-bold text-lg mb-4">Contact Us</h3>
             <p className="mb-4"></p>
             <div className="flex gap-4">
-              <SocialLink
+{/*               <SocialLink
                 href="https://facebook.com"
                 icon={<Facebook size={24} />}
                 hoverColor="text-blue-500"
-              />
-              <SocialLink
+              /> */}
+{/*               <SocialLink
                 href="https://twitter.com"
                 icon={<Twitter size={24} />}
                 hoverColor="text-blue-400"
-              />
+              /> */}
+              // <SocialLink
+              //   href="https://instagram.com"
+              //   icon={<Instagram size={24} />}
+              //   hoverColor="text-pink-500"
+              // />
               <SocialLink
-                href="https://instagram.com"
-                icon={<Instagram size={24} />}
-                hoverColor="text-pink-500"
-              />
-              <SocialLink
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/moksh-k-6ab504231/"
                 icon={<Linkedin size={24} />}
                 hoverColor="text-blue-700"
               />
