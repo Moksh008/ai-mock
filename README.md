@@ -1,6 +1,4 @@
 
-
-``markdown
 # 🧠 AI Mock Interview App
 
 An AI-powered mock interview web application designed to simulate real-time interview experiences. Built with React, Vite, and TypeScript, and styled using Tailwind CSS.
@@ -151,7 +149,7 @@ Contributions welcome! Please open an issue or PR.
 
 ## 📄 License
 
-[MIT License](LICENSE)
+[MIT License]=
 
 ---
 
