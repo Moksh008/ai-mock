@@ -98,11 +98,11 @@ export const Footer = () => {
                 icon={<Twitter size={24} />}
                 hoverColor="text-blue-400"
               /> */}
-              // <SocialLink
-              //   href="https://instagram.com"
+              {/* // <SocialLink */}
+              {/* //   href="https://instagram.com"
               //   icon={<Instagram size={24} />}
               //   hoverColor="text-pink-500"
-              // />
+              //  */}
               <SocialLink
                 href="https://www.linkedin.com/in/moksh-k-6ab504231/"
                 icon={<Linkedin size={24} />}
